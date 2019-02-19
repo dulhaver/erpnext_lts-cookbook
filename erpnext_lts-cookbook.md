@@ -1,0 +1,2 @@
+# ERPNEXT LTS cookbook
+
