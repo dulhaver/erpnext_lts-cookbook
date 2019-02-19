@@ -1,4 +1,4 @@
-# erpnext_lts-cookbook
+# ERPNext LTS cookbook
 
 this repo should serve for the creation of a formal document to describe the processes and procedures that will 
 eventually allow to formally label an [ERPNext](github.com/frappe/erpnext) version (such as v10.x.x) as LTS
